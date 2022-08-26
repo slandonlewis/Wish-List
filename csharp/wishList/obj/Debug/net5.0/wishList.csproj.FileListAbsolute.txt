@@ -1,0 +1,16 @@
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\bin\Debug\net5.0\wishList.exe
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\bin\Debug\net5.0\wishList.deps.json
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\bin\Debug\net5.0\wishList.runtimeconfig.json
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\bin\Debug\net5.0\wishList.runtimeconfig.dev.json
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\bin\Debug\net5.0\wishList.dll
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\bin\Debug\net5.0\wishList.pdb
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.csproj.AssemblyReference.cache
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.AssemblyInfoInputs.cache
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.AssemblyInfo.cs
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.csproj.CoreCompileInputs.cache
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.dll
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\refint\wishList.dll
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.pdb
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\wishList.genruntimeconfig.cache
+C:\Users\terro\workspace\translate-csharp-js\wish-list\csharp\wishList\obj\Debug\net5.0\ref\wishList.dll

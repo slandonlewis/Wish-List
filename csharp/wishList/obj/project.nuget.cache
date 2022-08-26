@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3HanEdcnkJPuID7q996bVpfmVZSS9pXR3h7K1KDhg5Ca0Equs2hBFyBL9ToVVALDaqYPIpKbqeOFo/UiobLWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\terro\\workspace\\translate-csharp-js\\wish-list\\csharp\\wishList\\wishList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
